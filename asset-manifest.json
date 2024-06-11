@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/normsfrontend/static/css/main.40f09210.css",
+    "main.js": "/normsfrontend/static/js/main.8641d8b7.js",
+    "static/js/453.8ab44547.chunk.js": "/normsfrontend/static/js/453.8ab44547.chunk.js",
+    "static/media/4sightlogo.png": "/normsfrontend/static/media/4sightlogo.e7aff780488d6ca539fb.png",
+    "index.html": "/normsfrontend/index.html",
+    "main.40f09210.css.map": "/normsfrontend/static/css/main.40f09210.css.map",
+    "main.8641d8b7.js.map": "/normsfrontend/static/js/main.8641d8b7.js.map",
+    "453.8ab44547.chunk.js.map": "/normsfrontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40f09210.css",
+    "static/js/main.8641d8b7.js"
+  ]
+}
