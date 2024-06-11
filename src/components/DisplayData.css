@@ -1,0 +1,35 @@
+.body{
+  position: relative;
+}
+.table-container {
+  
+    margin: 0 auto;
+    width: 87%;
+    overflow-y: auto;
+
+  }
+  
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    overflow-y: auto; /* Enable vertical scrolling */
+    max-width: 100%; 
+
+
+  }
+  
+  .data-table th,
+  .data-table td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .data-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .data-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }

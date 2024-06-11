@@ -1,0 +1,33 @@
+.cross-tab-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding-left: 0%;
+  padding-top: 0%;
+}
+
+.cross-tab {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+
+}
+
+.cross-tab-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cross-tab-table th,
+.cross-tab-table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+.cross-tab-table th {
+  text-transform: uppercase;
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: left;
+}

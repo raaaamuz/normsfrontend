@@ -1,0 +1,602 @@
+[
+    {
+        "value": "projectname",
+        "label": "Project Name"
+    },
+    {
+        "value": "jobno",
+        "label": "Job No"
+    },
+    {
+        "value": "year",
+        "label": "Year"
+    },
+    {
+        "value": "clientname",
+        "label": "Client Name"
+    },
+    {
+        "value": "countrycode",
+        "label": "Country Code"
+    },
+    {
+        "value": "supercategory",
+        "label": "Super Category"
+    },
+    {
+        "value": "category",
+        "label": "Category"
+    },
+    {
+        "value": "subcategory",
+        "label": "Sub Category"
+    },
+    {
+        "value": "brand",
+        "label": "Brand"
+    },
+    {
+        "value": "variant",
+        "label": "Variant"
+    },
+    {
+        "value": "productformat",
+        "label": "Product Format"
+    },
+    {
+        "value": "studytype",
+        "label": "Study Type"
+    },
+    {
+        "value": "studydesign",
+        "label": "Study Design"
+    },
+    {
+        "value": "placeofinterview",
+        "label": "Place of Interview"
+    },
+    {
+        "value": "blindbranded",
+        "label": "Blind Branded"
+    },
+    {
+        "value": "respondentid",
+        "label": "Respondent ID"
+    },
+    {
+        "value": "productcode",
+        "label": "Product Code"
+    },
+    {
+        "value": "city",
+        "label": "City"
+    },
+    {
+        "value": "genderofrespondent",
+        "label": "Gender of Respondent"
+    },
+    {
+        "value": "nationality",
+        "label": "Nationality"
+    },
+    {
+        "value": "exactage",
+        "label": "Exact Age"
+    },
+    {
+        "value": "secnew",
+        "label": "Secnew"
+    },
+    {
+        "value": "scaleoverallopinion",
+        "label": "Scale Overall Opinion"
+    },
+    {
+        "value": "scalepurchaseintention",
+        "label": "Scale Purchase Intention"
+    },
+    {
+        "value": "scaleproductattributes",
+        "label": "Scale Product Attributes"
+    },
+    {
+        "value": "overallopinion",
+        "label": "Overall Opinion"
+    },
+    {
+        "value": "liking",
+        "label": "Liking"
+    },
+    {
+        "value": "purchaseintentionunpriced",
+        "label": "Purchase Intention Unpriced"
+    },
+    {
+        "value": "purchaseintentionpriced",
+        "label": "Purchase Intention Priced"
+    },
+    {
+        "value": "relevance",
+        "label": "Relevance"
+    },
+    {
+        "value": "uniqueness",
+        "label": "Uniqueness"
+    },
+    {
+        "value": "valueformoney",
+        "label": "Value for Money"
+    },
+    {
+        "value": "appearance",
+        "label": "Appearance"
+    },
+    {
+        "value": "color",
+        "label": "Color"
+    },
+    {
+        "value": "aromasmell",
+        "label": "Aroma Smell"
+    },
+    {
+        "value": "taste",
+        "label": "Taste"
+    },
+    {
+        "value": "flavor",
+        "label": "Flavor"
+    },
+    {
+        "value": "sweetness",
+        "label": "Sweetness"
+    },
+    {
+        "value": "saltiness",
+        "label": "Saltiness"
+    },
+    {
+        "value": "sourness",
+        "label": "Sourness"
+    },
+    {
+        "value": "bitterness",
+        "label": "Bitterness"
+    },
+    {
+        "value": "texture",
+        "label": "Texture"
+    },
+    {
+        "value": "thickness",
+        "label": "Thickness"
+    },
+    {
+        "value": "mouthfeel",
+        "label": "Mouth Feel"
+    },
+    {
+        "value": "aftertaste",
+        "label": "After Taste"
+    },
+    {
+        "value": "creaminess",
+        "label": "Creaminess"
+    },
+    {
+        "value": "milkiness",
+        "label": "Milkiness"
+    },
+    {
+        "value": "freshness",
+        "label": "Freshness"
+    },
+    {
+        "value": "carbonation",
+        "label": "Carbonation"
+    },
+    {
+        "value": "sizeoffruitpieces",
+        "label": "Size of Fruit Pieces"
+    },
+    {
+        "value": "qtyoffruitpieces",
+        "label": "Qty of Fruit Pieces"
+    },
+    {
+        "value": "tasteoffruitpieces",
+        "label": "Taste of Fruit Pieces"
+    },
+    {
+        "value": "naturaltasteoffruitpieces",
+        "label": "Natural Taste of Fruit Pieces"
+    },
+    {
+        "value": "mouthfeeloffruitpieces",
+        "label": "Mouthfeel of Fruit Pieces"
+    },
+    {
+        "value": "cheesetaste",
+        "label": "Cheese Taste"
+    },
+    {
+        "value": "fattiness",
+        "label": "Fattiness"
+    },
+    {
+        "value": "stomachfeel",
+        "label": "Stomach Feel"
+    },
+    {
+        "value": "freshtaste",
+        "label": "Fresh Taste"
+    },
+    {
+        "value": "smoothness",
+        "label": "Smoothness"
+    },
+    {
+        "value": "shine",
+        "label": "Shine"
+    },
+    {
+        "value": "size",
+        "label": "Size"
+    },
+    {
+        "value": "aromaorsmell",
+        "label": "Aroma Or Smell"
+    },
+    {
+        "value": "aromaorsmellaftermixingwithsalad",
+        "label": "Aroma Or Smell After Mixing With Salad"
+    },
+    {
+        "value": "milkyaroma",
+        "label": "Milky Aroma"
+    },
+    {
+        "value": "indulgingtaste",
+        "label": "Indulging Taste"
+    },
+    {
+        "value": "naturaltaste",
+        "label": "Natural Taste"
+    },
+    {
+        "value": "tasteofmilk",
+        "label": "Taste Of Milk"
+    },
+    {
+        "value": "creamytaste",
+        "label": "Creamy Taste"
+    },
+    {
+        "value": "tasterichincream",
+        "label": "Taste Rich In Cream"
+    },
+    {
+        "value": "naturalsweetness",
+        "label": "Natural Sweetness"
+    },
+    {
+        "value": "naturalsaltiness",
+        "label": "Natural Saltiness"
+    },
+    {
+        "value": "freshingredients",
+        "label": "Fresh Ingredients"
+    },
+    {
+        "value": "textureorconsistency",
+        "label": "Texture Or Consistency"
+    },
+    {
+        "value": "creamytexture",
+        "label": "Creamy Texture"
+    },
+    {
+        "value": "firmness",
+        "label": "Firmness"
+    },
+    {
+        "value": "lightness",
+        "label": "Lightness"
+    },
+    {
+        "value": "spreadability",
+        "label": "Spreadability"
+    },
+    {
+        "value": "pourability",
+        "label": "Pourability"
+    },
+    {
+        "value": "stickiness",
+        "label": "Stickiness"
+    },
+    {
+        "value": "crispiness",
+        "label": "Crispiness"
+    },
+    {
+        "value": "oiliness",
+        "label": "Oiliness"
+    },
+    {
+        "value": "Tastegoodforbreakfast",
+        "label": "Taste Good For Breakfast"
+    },
+    {
+        "value": "qualityofpotato",
+        "label": "Quality Of Potato"
+    },
+    {
+        "value": "easeofmixingduringfoodpreparation",
+        "label": "Ease Of Mixing During Food Preparation"
+    },
+    {
+        "value": "acidityofoil",
+        "label": "Acidity Of Oil"
+    },
+    {
+        "value": "tasteofenddish",
+        "label": "Taste Of End Dish"
+    },
+    {
+        "value": "likelihoodtorecommend",
+        "label": "Likelihood To Recommend"
+    },
+    {
+        "value": "Colour",
+        "label": "Colour"
+    },
+    {
+        "value": "easeofspreading",
+        "label": "Ease Of Spreading"
+    },
+    {
+        "value": "thicknessorconsistency",
+        "label": "Thickness Or Consistency"
+    },
+    {
+        "value": "smellorfragrance",
+        "label": "Smell Or Fragrance"
+    },
+    {
+        "value": "Mildorgentle",
+        "label": "Mild Or Gentle"
+    },
+    {
+        "value": "Shineofhairextension",
+        "label": "Shine Of Hair Extension"
+    },
+    {
+        "value": "Softnessofhairextension",
+        "label": "Softness Of Hair Extension"
+    },
+    {
+        "value": "Smoothnessofhairextension",
+        "label": "Smoothness Of Hair Extension"
+    },
+    {
+        "value": "Strengthofhairextension",
+        "label": "Strength Of Hair Extension"
+    },
+    {
+        "value": "Quantityinsinglepack",
+        "label": "Quantity In Single Pack"
+    },
+    {
+        "value": "Easeoffixing",
+        "label": "Ease Of Fixing"
+    },
+    {
+        "value": "Easeofoplaiting",
+        "label": "Ease Of Oplaiting"
+    },
+    {
+        "value": "Easeofgripping",
+        "label": "Ease Of Gripping"
+    },
+    {
+        "value": "Easeofsplitting",
+        "label": "Ease Of Splitting"
+    },
+    {
+        "value": "Easeoftrimming",
+        "label": "Ease Of Trimming"
+    },
+    {
+        "value": "Neatnessofplaits",
+        "label": "Neatness Of Plaits"
+    },
+    {
+        "value": "Extentoftangingduringcombing",
+        "label": "Extent Of Tanging During Combing"
+    },
+    {
+        "value": "Extentoftangingduringfixing",
+        "label": "Extent Of Tanging During Fixing"
+    },
+    {
+        "value": "Comfortonfingers",
+        "label": "Comfort On Fingers"
+    },
+    {
+        "value": "Shineofbraids",
+        "label": "Shine Of Braids"
+    },
+    {
+        "value": "Softnessofbraids",
+        "label": "Softness Of Braids"
+    },
+    {
+        "value": "Smoothnessofbraids",
+        "label": "Smoothness Of Braids"
+    },
+    {
+        "value": "Thicknessofbraids",
+        "label": "Thickness Of Braids"
+    },
+    {
+        "value": "Heavinessofbraids",
+        "label": "Heaviness Of Braids"
+    },
+    {
+        "value": "Overallopiniononfinallook",
+        "label": "Overall Opinion On Final Look"
+    },
+    {
+        "value": "Hairfallwhileapplying",
+        "label": "Hair Fall While Applying"
+    },
+    {
+        "value": "Colourofhairpostwashing",
+        "label": "Colour Of Hair Post Washing"
+    },
+    {
+        "value": "Shineofhairpostwashing",
+        "label": "Shine Of Hair Post Washing"
+    },
+    {
+        "value": "Bodyorvolumeofhairpostwashing",
+        "label": "Body Or Volume Of Hair Post Washing"
+    },
+    {
+        "value": "Bounceofhairpostwashing",
+        "label": "Bounce Of Hair Post Washing"
+    },
+    {
+        "value": "Straighteningofhairpostwashing",
+        "label": "Straightening Of Hair Post Washing"
+    },
+    {
+        "value": "Efficacyoftheproduct",
+        "label": "Efficacy Of The Product"
+    },
+    {
+        "value": "Hairfallwhilewashingofftheproduct",
+        "label": "Hair Fall While Washing Off The Product"
+    },
+    {
+        "value": "Burningorscarringofscalpduetotheproductapplied",
+        "label": "Burning Or Scarring Of Scalp Due To The Product Applied"
+    },
+    {
+        "value": "Hairstrengthafterwashingofftheproduct",
+        "label": "Hair Strength After Washing Off The Product"
+    },
+    {
+        "value": "Overalltimetakenintheentireprocess",
+        "label": "Overall Time Taken In The Entire Process"
+    },
+    {
+        "value": "Doesnotirritateorstingoritch",
+        "label": "Does Not Irritate Or Sting Or Itch"
+    },
+    {
+        "value": "Relevanceoverall",
+        "label": "Relevance Overall"
+    },
+    {
+        "value": "Concept_uniqueness",
+        "label": "Concept Uniqueness"
+    },
+    {
+        "value": "Comprehension",
+        "label": "Comprehension"
+    },
+    {
+        "value": "Believability",
+        "label": "Believability"
+    },
+    {
+        "value": "Concept_valueformoney",
+        "label": "Concept Value For Money"
+    },
+    {
+        "value": "Pack_relevance",
+        "label": "Pack Relevance"
+    },
+    {
+        "value": "Pack_uniqueness",
+        "label": "Pack Uniqueness"
+    },
+    {
+        "value": "Pack_valueformoney",
+        "label": "Pack Value For Money"
+    },
+    {
+        "value": "Overallattractiveness",
+        "label": "Overall Attractiveness"
+    },
+    {
+        "value": "Attractiveorlikepackcolour",
+        "label": "Attractive Or Like Pack Colour"
+    },
+    {
+        "value": "Attractiveshapeorlikeshape",
+        "label": "Attractive Shape Or Like Shape"
+    },
+    {
+        "value": "Attractivedesign",
+        "label": "Attractive Design"
+    },
+    {
+        "value": "Innovativedesign",
+        "label": "Innovative Design"
+    },
+    {
+        "value": "Premiumlook",
+        "label": "Premium Look"
+    },
+    {
+        "value": "Modernorcontemporarylook",
+        "label": "Modern Or Contemporary Look"
+    },
+    {
+        "value": "Traditionallook",
+        "label": "Traditional Look"
+    },
+    {
+        "value": "Elegantlook",
+        "label": "Elegant Look"
+    },
+    {
+        "value": "Eyecatching",
+        "label": "Eye Catching"
+    },
+    {
+        "value": "Wouldstandoutonshelf",
+        "label": "Would Standout On Shelf"
+    },
+    {
+        "value": "Wellsealed",
+        "label": "Well Sealed"
+    },
+    {
+        "value": "Safetouse",
+        "label": "Safe To Use"
+    },
+    {
+        "value": "Convenienttouse",
+        "label": "Convenient To Use"
+    },
+    {
+        "value": "Suitableforinhomeuse",
+        "label": "Suitable For In Home Use"
+    },
+    {
+        "value": "Suitableforoutofhomeuse",
+        "label": "Suitable For Out Of Home Use"
+    },
+    {
+        "value": "Goodqualitymaterial",
+        "label": "Good Quality Material"
+    },
+    {
+        "value": "Easeofholding",
+        "label": "Ease Of Holding"
+    }
+]

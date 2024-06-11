@@ -1,0 +1,12 @@
+.side-navbar {
+    background-color: #333; /* Change background color to black */
+    color: white; /* Set text color to white */
+    width: 250px; /* Set width to 250px */
+    padding: 20px; /* Add padding */
+  }
+  
+  .side-navbar .nav-link {
+    font-size: 18px; /* Set font size to 18px */
+    color: white; /* Set text color to white */
+  }
+  

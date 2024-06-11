@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 65%;
+  }
+  
+  .nav-link {
+    padding: 0 15px;
+  }
+
+  .logo{
+    position: absolute;
+    top: 0%;
+    left: 2%;
+  }
+
+  .custom-dropdown .dropdown-toggle::after {
+    color: grey;
+  }
+
+  .username{
+    color: grey;
+  }
+  
+  .username:hover,
+  .custom-dropdown .dropdown-toggle:hover::after {
+    color: whitesmoke;
+  }
+
+  
+  
+  
+
+
+
+  
