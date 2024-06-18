@@ -16,7 +16,7 @@ import FileUpload from './components/ExcelUpload';
 import './Application.css';
 //import'./components/norms.css'
 
-
+// this is to test git changes are deducted
 
 const App = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -26,7 +26,7 @@ const App = () => {
     const loggedInState = localStorage.getItem('isLoggedIn');
     //console.log("XXXX",loggedInState)
     const storedUsername = localStorage.getItem('username');
-    
+
     setIsLoggedIn(prevIsLoggedIn => {
       //console.log("CLOG",prevIsLoggedIn);
       if (loggedInState === 'true') {
@@ -75,7 +75,7 @@ const App = () => {
       <Route path="/" element={<Navigate to="/login" />} />
       <Route path="/signup" element={<SignUpForm />} />
       <Route path="/login" element={<Login onLogin={handleLogin} />} />
-      
+
     </>
   )}
 </Routes>
